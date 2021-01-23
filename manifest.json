@@ -2,5 +2,11 @@
   "name": "Github Contributions Viewer",
   "version": "0.0.0.1",
   "manifest_version": 2,
-  "description": "A quick way to see your daily, weekly, monthly and yearly github contributions"
+  "description": "A quick way to see your daily, weekly, monthly and yearly github contributions",
+  "icons": {
+    "16": "icons/commitblue16x16.png",
+    "32": "icons/commitblue32x32.png",
+    "48": "icons/commitblue48x48.png",
+    "128": "icons/commitblue128x128.png",
+  }
 }
