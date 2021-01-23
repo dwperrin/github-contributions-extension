@@ -1,0 +1,6 @@
+{
+  "name": "Github Contributions Viewer",
+  "version": "0.0.0.1",
+  "manifest_version": 2,
+  "description": "A quick way to see your daily, weekly, monthly and yearly github contributions"
+}
