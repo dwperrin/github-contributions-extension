@@ -7,6 +7,9 @@
     "16": "icons/commitblue16x16.png",
     "32": "icons/commitblue32x32.png",
     "48": "icons/commitblue48x48.png",
-    "128": "icons/commitblue128x128.png",
+    "128": "icons/commitblue128x128.png"
+  },
+  "browser_action": {
+    "default_popup": "popup/popup.html"
   }
 }
